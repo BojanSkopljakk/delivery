@@ -1,12 +1,190 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\bojan\\source\\repos\\Mango\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3AD763F1-BD92-4444-9FE8-48FE46BC1932}|CouponAPI\\CouponAPI.csproj|c:\\users\\bojan\\source\\repos\\delivery\\mango\\couponapi\\controllers\\couponapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AD763F1-BD92-4444-9FE8-48FE46BC1932}|CouponAPI\\CouponAPI.csproj|solutionrelative:couponapi\\controllers\\couponapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AD763F1-BD92-4444-9FE8-48FE46BC1932}|CouponAPI\\CouponAPI.csproj|c:\\users\\bojan\\source\\repos\\delivery\\mango\\couponapi\\models\\dto\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AD763F1-BD92-4444-9FE8-48FE46BC1932}|CouponAPI\\CouponAPI.csproj|solutionrelative:couponapi\\models\\dto\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AD763F1-BD92-4444-9FE8-48FE46BC1932}|CouponAPI\\CouponAPI.csproj|c:\\users\\bojan\\source\\repos\\delivery\\mango\\couponapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AD763F1-BD92-4444-9FE8-48FE46BC1932}|CouponAPI\\CouponAPI.csproj|solutionrelative:couponapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\CouponAPI\\Migrations\\20241004162044_SeedCoupon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CouponAPI\\Migrations\\20241004162044_SeedCoupon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AD763F1-BD92-4444-9FE8-48FE46BC1932}|CouponAPI\\CouponAPI.csproj|c:\\users\\bojan\\source\\repos\\delivery\\mango\\couponapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AD763F1-BD92-4444-9FE8-48FE46BC1932}|CouponAPI\\CouponAPI.csproj|solutionrelative:couponapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AD763F1-BD92-4444-9FE8-48FE46BC1932}|CouponAPI\\CouponAPI.csproj|c:\\users\\bojan\\source\\repos\\delivery\\mango\\couponapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3AD763F1-BD92-4444-9FE8-48FE46BC1932}|CouponAPI\\CouponAPI.csproj|solutionrelative:couponapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AD763F1-BD92-4444-9FE8-48FE46BC1932}|CouponAPI\\CouponAPI.csproj|c:\\users\\bojan\\source\\repos\\delivery\\mango\\couponapi\\migrations\\20241004161246_addcoupontodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AD763F1-BD92-4444-9FE8-48FE46BC1932}|CouponAPI\\CouponAPI.csproj|solutionrelative:couponapi\\migrations\\20241004161246_addcoupontodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AD763F1-BD92-4444-9FE8-48FE46BC1932}|CouponAPI\\CouponAPI.csproj|c:\\users\\bojan\\source\\repos\\delivery\\mango\\couponapi\\models\\coupon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AD763F1-BD92-4444-9FE8-48FE46BC1932}|CouponAPI\\CouponAPI.csproj|solutionrelative:couponapi\\models\\coupon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AD763F1-BD92-4444-9FE8-48FE46BC1932}|CouponAPI\\CouponAPI.csproj|c:\\users\\bojan\\source\\repos\\delivery\\mango\\couponapi\\couponapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3AD763F1-BD92-4444-9FE8-48FE46BC1932}|CouponAPI\\CouponAPI.csproj|solutionrelative:couponapi\\couponapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AD763F1-BD92-4444-9FE8-48FE46BC1932}|CouponAPI\\CouponAPI.csproj|c:\\users\\bojan\\source\\repos\\delivery\\mango\\couponapi\\models\\dto\\coupondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AD763F1-BD92-4444-9FE8-48FE46BC1932}|CouponAPI\\CouponAPI.csproj|solutionrelative:couponapi\\models\\dto\\coupondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\CouponAPI\\Models\\Dto\\ResponseDto.cs",
+              "RelativeDocumentMoniker": "CouponAPI\\Models\\Dto\\ResponseDto.cs",
+              "ToolTip": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\CouponAPI\\Models\\Dto\\ResponseDto.cs",
+              "RelativeToolTip": "CouponAPI\\Models\\Dto\\ResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T16:44:41.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CouponAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\CouponAPI\\Controllers\\CouponAPIController.cs",
+              "RelativeDocumentMoniker": "CouponAPI\\Controllers\\CouponAPIController.cs",
+              "ToolTip": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\CouponAPI\\Controllers\\CouponAPIController.cs",
+              "RelativeToolTip": "CouponAPI\\Controllers\\CouponAPIController.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAAADIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T16:27:10.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20241004162044_SeedCoupon.cs",
+              "DocumentMoniker": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\CouponAPI\\Migrations\\20241004162044_SeedCoupon.cs",
+              "RelativeDocumentMoniker": "CouponAPI\\Migrations\\20241004162044_SeedCoupon.cs",
+              "ToolTip": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\CouponAPI\\Migrations\\20241004162044_SeedCoupon.cs",
+              "RelativeToolTip": "CouponAPI\\Migrations\\20241004162044_SeedCoupon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T16:20:44.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20241004161246_AddCouponToDb.cs",
+              "DocumentMoniker": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\CouponAPI\\Migrations\\20241004161246_AddCouponToDb.cs",
+              "RelativeDocumentMoniker": "CouponAPI\\Migrations\\20241004161246_AddCouponToDb.cs",
+              "ToolTip": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\CouponAPI\\Migrations\\20241004161246_AddCouponToDb.cs",
+              "RelativeToolTip": "CouponAPI\\Migrations\\20241004161246_AddCouponToDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T16:12:46.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\CouponAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "CouponAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\CouponAPI\\appsettings.json",
+              "RelativeToolTip": "CouponAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-04T16:05:34.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\CouponAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CouponAPI\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\CouponAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "CouponAPI\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAAB0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T16:00:10.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\CouponAPI\\Program.cs",
+              "RelativeDocumentMoniker": "CouponAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\CouponAPI\\Program.cs",
+              "RelativeToolTip": "CouponAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T16:03:43.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CouponAPI",
+              "DocumentMoniker": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\CouponAPI\\CouponAPI.csproj",
+              "RelativeDocumentMoniker": "CouponAPI\\CouponAPI.csproj",
+              "ToolTip": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\CouponAPI\\CouponAPI.csproj",
+              "RelativeToolTip": "CouponAPI\\CouponAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-04T15:27:23.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Coupon.cs",
+              "DocumentMoniker": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\CouponAPI\\Models\\Coupon.cs",
+              "RelativeDocumentMoniker": "CouponAPI\\Models\\Coupon.cs",
+              "ToolTip": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\CouponAPI\\Models\\Coupon.cs",
+              "RelativeToolTip": "CouponAPI\\Models\\Coupon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T15:23:17.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CouponDto.cs",
+              "DocumentMoniker": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\CouponAPI\\Models\\Dto\\CouponDto.cs",
+              "RelativeDocumentMoniker": "CouponAPI\\Models\\Dto\\CouponDto.cs",
+              "ToolTip": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\CouponAPI\\Models\\Dto\\CouponDto.cs",
+              "RelativeToolTip": "CouponAPI\\Models\\Dto\\CouponDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T15:26:00.04Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
