@@ -2,6 +2,7 @@
 using CouponAPI.Data;
 using CouponAPI.Models;
 using CouponAPI.Models.Dto;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -9,6 +10,7 @@ namespace CouponAPI.Controllers
 {
     [Route("api/coupon")]
     [ApiController]
+    [Authorize]
     public class CouponAPIController : ControllerBase
     {
         private readonly AppDbContext _context;
@@ -92,7 +94,7 @@ namespace CouponAPI.Controllers
         }
 
         [HttpPost]
-        
+        [Authorize(Roles ="ADMIN")]
 
         public ResponseDto Post([FromBody] CouponDto couponDto)
         {
@@ -117,7 +119,7 @@ namespace CouponAPI.Controllers
         }
 
         [HttpPut]
-
+        [Authorize(Roles = "ADMIN")]
         public ResponseDto Put([FromBody] CouponDto couponDto)
         {
 
@@ -141,7 +143,8 @@ namespace CouponAPI.Controllers
         }
 
         [HttpDelete]
-
+        [Route("{id:int}")]
+        [Authorize(Roles = "ADMIN")]
         public ResponseDto Delete(int id)
         {
 
