@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "zf3DXnWtkow=",
+  "dgSpecHash": "q4nVAo7m3M0=",
   "success": true,
   "projectFilePath": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Web\\Mango.Web.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\bojan\\.nuget\\packages\\microsoft.identitymodel\\6.1.7600.16394\\microsoft.identitymodel.6.1.7600.16394.nupkg.sha512",
     "C:\\Users\\bojan\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.1.2\\microsoft.identitymodel.abstractions.7.1.2.nupkg.sha512",
     "C:\\Users\\bojan\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\7.1.2\\microsoft.identitymodel.jsonwebtokens.7.1.2.nupkg.sha512",
     "C:\\Users\\bojan\\.nuget\\packages\\microsoft.identitymodel.logging\\7.1.2\\microsoft.identitymodel.logging.7.1.2.nupkg.sha512",
@@ -11,5 +12,26 @@
     "C:\\Users\\bojan\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\bojan\\.nuget\\packages\\system.identitymodel.tokens.jwt\\7.1.2\\system.identitymodel.tokens.jwt.7.1.2.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Mango.Web depends on Microsoft.IdentityModel (>= 6.0.0) but Microsoft.IdentityModel 6.0.0 was not found. An approximate best match of Microsoft.IdentityModel 6.1.7600.16394 was resolved.",
+      "libraryId": "Microsoft.IdentityModel",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.IdentityModel 6.1.7600.16394' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Microsoft.IdentityModel",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
 }
