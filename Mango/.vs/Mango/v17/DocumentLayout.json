@@ -3,6 +3,74 @@
   "WorkspaceRootPath": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3DB976DB-5EAB-49CF-8A40-6FDE67DE4CBA}|Mango.Services.RewardAPI\\Mango.Services.RewardAPI.csproj|c:\\users\\bojan\\source\\repos\\delivery\\mango\\mango.services.rewardapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DB976DB-5EAB-49CF-8A40-6FDE67DE4CBA}|Mango.Services.RewardAPI\\Mango.Services.RewardAPI.csproj|solutionrelative:mango.services.rewardapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB976DB-5EAB-49CF-8A40-6FDE67DE4CBA}|Mango.Services.RewardAPI\\Mango.Services.RewardAPI.csproj|c:\\users\\bojan\\source\\repos\\delivery\\mango\\mango.services.rewardapi\\extension\\applicationbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DB976DB-5EAB-49CF-8A40-6FDE67DE4CBA}|Mango.Services.RewardAPI\\Mango.Services.RewardAPI.csproj|solutionrelative:mango.services.rewardapi\\extension\\applicationbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39A3B334-F7B9-49BE-83E4-4A6FEFACAB11}|Mango.Services.EmailAPI\\Mango.Services.EmailAPI.csproj|c:\\users\\bojan\\source\\repos\\delivery\\mango\\mango.services.emailapi\\messaging\\azureservicebusconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39A3B334-F7B9-49BE-83E4-4A6FEFACAB11}|Mango.Services.EmailAPI\\Mango.Services.EmailAPI.csproj|solutionrelative:mango.services.emailapi\\messaging\\azureservicebusconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39A3B334-F7B9-49BE-83E4-4A6FEFACAB11}|Mango.Services.EmailAPI\\Mango.Services.EmailAPI.csproj|c:\\users\\bojan\\source\\repos\\delivery\\mango\\mango.services.emailapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{39A3B334-F7B9-49BE-83E4-4A6FEFACAB11}|Mango.Services.EmailAPI\\Mango.Services.EmailAPI.csproj|solutionrelative:mango.services.emailapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB976DB-5EAB-49CF-8A40-6FDE67DE4CBA}|Mango.Services.RewardAPI\\Mango.Services.RewardAPI.csproj|c:\\users\\bojan\\source\\repos\\delivery\\mango\\mango.services.rewardapi\\messaging\\iazureservicebusconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DB976DB-5EAB-49CF-8A40-6FDE67DE4CBA}|Mango.Services.RewardAPI\\Mango.Services.RewardAPI.csproj|solutionrelative:mango.services.rewardapi\\messaging\\iazureservicebusconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB976DB-5EAB-49CF-8A40-6FDE67DE4CBA}|Mango.Services.RewardAPI\\Mango.Services.RewardAPI.csproj|c:\\users\\bojan\\source\\repos\\delivery\\mango\\mango.services.rewardapi\\message\\rewardsmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DB976DB-5EAB-49CF-8A40-6FDE67DE4CBA}|Mango.Services.RewardAPI\\Mango.Services.RewardAPI.csproj|solutionrelative:mango.services.rewardapi\\message\\rewardsmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F4113F1-FE44-4D7B-B7C0-F4FE2836A6DA}|Mango.Services.OrderAPI\\Mango.Services.OrderAPI.csproj|c:\\users\\bojan\\source\\repos\\delivery\\mango\\mango.services.orderapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1F4113F1-FE44-4D7B-B7C0-F4FE2836A6DA}|Mango.Services.OrderAPI\\Mango.Services.OrderAPI.csproj|solutionrelative:mango.services.orderapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F4113F1-FE44-4D7B-B7C0-F4FE2836A6DA}|Mango.Services.OrderAPI\\Mango.Services.OrderAPI.csproj|c:\\users\\bojan\\source\\repos\\delivery\\mango\\mango.services.orderapi\\controllers\\orderapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F4113F1-FE44-4D7B-B7C0-F4FE2836A6DA}|Mango.Services.OrderAPI\\Mango.Services.OrderAPI.csproj|solutionrelative:mango.services.orderapi\\controllers\\orderapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F4113F1-FE44-4D7B-B7C0-F4FE2836A6DA}|Mango.Services.OrderAPI\\Mango.Services.OrderAPI.csproj|c:\\users\\bojan\\source\\repos\\delivery\\mango\\mango.services.orderapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F4113F1-FE44-4D7B-B7C0-F4FE2836A6DA}|Mango.Services.OrderAPI\\Mango.Services.OrderAPI.csproj|solutionrelative:mango.services.orderapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F4113F1-FE44-4D7B-B7C0-F4FE2836A6DA}|Mango.Services.OrderAPI\\Mango.Services.OrderAPI.csproj|c:\\users\\bojan\\source\\repos\\delivery\\mango\\mango.services.orderapi\\models\\dto\\rewardsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F4113F1-FE44-4D7B-B7C0-F4FE2836A6DA}|Mango.Services.OrderAPI\\Mango.Services.OrderAPI.csproj|solutionrelative:mango.services.orderapi\\models\\dto\\rewardsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Services.RewardAPI\\Migrations\\20250313161141_AddRewardTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mango.Services.RewardAPI\\Migrations\\20250313161141_AddRewardTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB976DB-5EAB-49CF-8A40-6FDE67DE4CBA}|Mango.Services.RewardAPI\\Mango.Services.RewardAPI.csproj|c:\\users\\bojan\\source\\repos\\delivery\\mango\\mango.services.rewardapi\\services\\rewardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DB976DB-5EAB-49CF-8A40-6FDE67DE4CBA}|Mango.Services.RewardAPI\\Mango.Services.RewardAPI.csproj|solutionrelative:mango.services.rewardapi\\services\\rewardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB976DB-5EAB-49CF-8A40-6FDE67DE4CBA}|Mango.Services.RewardAPI\\Mango.Services.RewardAPI.csproj|c:\\users\\bojan\\source\\repos\\delivery\\mango\\mango.services.rewardapi\\services\\irewardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DB976DB-5EAB-49CF-8A40-6FDE67DE4CBA}|Mango.Services.RewardAPI\\Mango.Services.RewardAPI.csproj|solutionrelative:mango.services.rewardapi\\services\\irewardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB976DB-5EAB-49CF-8A40-6FDE67DE4CBA}|Mango.Services.RewardAPI\\Mango.Services.RewardAPI.csproj|c:\\users\\bojan\\source\\repos\\delivery\\mango\\mango.services.rewardapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DB976DB-5EAB-49CF-8A40-6FDE67DE4CBA}|Mango.Services.RewardAPI\\Mango.Services.RewardAPI.csproj|solutionrelative:mango.services.rewardapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB976DB-5EAB-49CF-8A40-6FDE67DE4CBA}|Mango.Services.RewardAPI\\Mango.Services.RewardAPI.csproj|c:\\users\\bojan\\source\\repos\\delivery\\mango\\mango.services.rewardapi\\models\\rewards.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DB976DB-5EAB-49CF-8A40-6FDE67DE4CBA}|Mango.Services.RewardAPI\\Mango.Services.RewardAPI.csproj|solutionrelative:mango.services.rewardapi\\models\\rewards.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB976DB-5EAB-49CF-8A40-6FDE67DE4CBA}|Mango.Services.RewardAPI\\Mango.Services.RewardAPI.csproj|c:\\users\\bojan\\source\\repos\\delivery\\mango\\mango.services.rewardapi\\mango.services.rewardapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3DB976DB-5EAB-49CF-8A40-6FDE67DE4CBA}|Mango.Services.RewardAPI\\Mango.Services.RewardAPI.csproj|solutionrelative:mango.services.rewardapi\\mango.services.rewardapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39A3B334-F7B9-49BE-83E4-4A6FEFACAB11}|Mango.Services.EmailAPI\\Mango.Services.EmailAPI.csproj|c:\\users\\bojan\\source\\repos\\delivery\\mango\\mango.services.emailapi\\mango.services.emailapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{39A3B334-F7B9-49BE-83E4-4A6FEFACAB11}|Mango.Services.EmailAPI\\Mango.Services.EmailAPI.csproj|solutionrelative:mango.services.emailapi\\mango.services.emailapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{76D0B03B-435E-4F38-898E-568DB811BAC9}|Mango.Web\\Mango.Web.csproj|c:\\users\\bojan\\source\\repos\\delivery\\mango\\mango.web\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{76D0B03B-435E-4F38-898E-568DB811BAC9}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,24 +91,12 @@
       "RelativeMoniker": "D:0:0:{1F4113F1-FE44-4D7B-B7C0-F4FE2836A6DA}|Mango.Services.OrderAPI\\Mango.Services.OrderAPI.csproj|solutionrelative:mango.services.orderapi\\utility\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F4113F1-FE44-4D7B-B7C0-F4FE2836A6DA}|Mango.Services.OrderAPI\\Mango.Services.OrderAPI.csproj|c:\\users\\bojan\\source\\repos\\delivery\\mango\\mango.services.orderapi\\controllers\\orderapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F4113F1-FE44-4D7B-B7C0-F4FE2836A6DA}|Mango.Services.OrderAPI\\Mango.Services.OrderAPI.csproj|solutionrelative:mango.services.orderapi\\controllers\\orderapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3AD763F1-BD92-4444-9FE8-48FE46BC1932}|CouponAPI\\CouponAPI.csproj|c:\\users\\bojan\\source\\repos\\delivery\\mango\\couponapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{3AD763F1-BD92-4444-9FE8-48FE46BC1932}|CouponAPI\\CouponAPI.csproj|solutionrelative:couponapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F4113F1-FE44-4D7B-B7C0-F4FE2836A6DA}|Mango.Services.OrderAPI\\Mango.Services.OrderAPI.csproj|c:\\users\\bojan\\source\\repos\\delivery\\mango\\mango.services.orderapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{1F4113F1-FE44-4D7B-B7C0-F4FE2836A6DA}|Mango.Services.OrderAPI\\Mango.Services.OrderAPI.csproj|solutionrelative:mango.services.orderapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3AD763F1-BD92-4444-9FE8-48FE46BC1932}|CouponAPI\\CouponAPI.csproj|c:\\users\\bojan\\source\\repos\\delivery\\mango\\couponapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3AD763F1-BD92-4444-9FE8-48FE46BC1932}|CouponAPI\\CouponAPI.csproj|solutionrelative:couponapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F4113F1-FE44-4D7B-B7C0-F4FE2836A6DA}|Mango.Services.OrderAPI\\Mango.Services.OrderAPI.csproj|c:\\users\\bojan\\source\\repos\\delivery\\mango\\mango.services.orderapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F4113F1-FE44-4D7B-B7C0-F4FE2836A6DA}|Mango.Services.OrderAPI\\Mango.Services.OrderAPI.csproj|solutionrelative:mango.services.orderapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3AD763F1-BD92-4444-9FE8-48FE46BC1932}|CouponAPI\\CouponAPI.csproj|c:\\users\\bojan\\source\\repos\\delivery\\mango\\couponapi\\controllers\\couponapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -175,22 +231,6 @@
       "RelativeMoniker": "D:0:0:{76D0B03B-435E-4F38-898E-568DB811BAC9}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\views\\cart\\cartindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39A3B334-F7B9-49BE-83E4-4A6FEFACAB11}|Mango.Services.EmailAPI\\Mango.Services.EmailAPI.csproj|c:\\users\\bojan\\source\\repos\\delivery\\mango\\mango.services.emailapi\\messaging\\azureservicebusconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39A3B334-F7B9-49BE-83E4-4A6FEFACAB11}|Mango.Services.EmailAPI\\Mango.Services.EmailAPI.csproj|solutionrelative:mango.services.emailapi\\messaging\\azureservicebusconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{39A3B334-F7B9-49BE-83E4-4A6FEFACAB11}|Mango.Services.EmailAPI\\Mango.Services.EmailAPI.csproj|c:\\users\\bojan\\source\\repos\\delivery\\mango\\mango.services.emailapi\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39A3B334-F7B9-49BE-83E4-4A6FEFACAB11}|Mango.Services.EmailAPI\\Mango.Services.EmailAPI.csproj|solutionrelative:mango.services.emailapi\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{39A3B334-F7B9-49BE-83E4-4A6FEFACAB11}|Mango.Services.EmailAPI\\Mango.Services.EmailAPI.csproj|c:\\users\\bojan\\source\\repos\\delivery\\mango\\mango.services.emailapi\\services\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39A3B334-F7B9-49BE-83E4-4A6FEFACAB11}|Mango.Services.EmailAPI\\Mango.Services.EmailAPI.csproj|solutionrelative:mango.services.emailapi\\services\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{39A3B334-F7B9-49BE-83E4-4A6FEFACAB11}|Mango.Services.EmailAPI\\Mango.Services.EmailAPI.csproj|c:\\users\\bojan\\source\\repos\\delivery\\mango\\mango.services.emailapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{39A3B334-F7B9-49BE-83E4-4A6FEFACAB11}|Mango.Services.EmailAPI\\Mango.Services.EmailAPI.csproj|solutionrelative:mango.services.emailapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3FF4271C-981A-4DB2-AC15-D62BF0398ABF}|Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|c:\\users\\bojan\\source\\repos\\delivery\\mango\\mango.services.authapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{3FF4271C-981A-4DB2-AC15-D62BF0398ABF}|Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|solutionrelative:mango.services.authapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -247,10 +287,6 @@
       "RelativeMoniker": "D:0:0:{39A3B334-F7B9-49BE-83E4-4A6FEFACAB11}|Mango.Services.EmailAPI\\Mango.Services.EmailAPI.csproj|solutionrelative:mango.services.emailapi\\models\\emaillogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39A3B334-F7B9-49BE-83E4-4A6FEFACAB11}|Mango.Services.EmailAPI\\Mango.Services.EmailAPI.csproj|c:\\users\\bojan\\source\\repos\\delivery\\mango\\mango.services.emailapi\\mango.services.emailapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{39A3B334-F7B9-49BE-83E4-4A6FEFACAB11}|Mango.Services.EmailAPI\\Mango.Services.EmailAPI.csproj|solutionrelative:mango.services.emailapi\\mango.services.emailapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A8A7371F-B2B9-4D97-B947-0C32C6FF63C2}|Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj|c:\\users\\bojan\\source\\repos\\delivery\\mango\\mango.services.productapi\\mango.services.productapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{A8A7371F-B2B9-4D97-B947-0C32C6FF63C2}|Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj|solutionrelative:mango.services.productapi\\mango.services.productapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
@@ -294,63 +330,219 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\CouponAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "CouponAPI\\appsettings.json",
-              "ToolTip": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\CouponAPI\\appsettings.json",
-              "RelativeToolTip": "CouponAPI\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-13T11:53:20.181Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\CouponAPI\\Program.cs",
-              "RelativeDocumentMoniker": "CouponAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\CouponAPI\\Program.cs",
-              "RelativeToolTip": "CouponAPI\\Program.cs",
-              "ViewState": "AQIAADMAAAAAAAAAAAAAAEQAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "ApplicationBuilderExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Services.RewardAPI\\Extension\\ApplicationBuilderExtensions.cs",
+              "RelativeDocumentMoniker": "Mango.Services.RewardAPI\\Extension\\ApplicationBuilderExtensions.cs",
+              "ToolTip": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Services.RewardAPI\\Extension\\ApplicationBuilderExtensions.cs",
+              "RelativeToolTip": "Mango.Services.RewardAPI\\Extension\\ApplicationBuilderExtensions.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAYwAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T11:52:54.581Z",
+              "WhenOpened": "2025-03-13T17:50:29.743Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Services.EmailAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "Mango.Services.EmailAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Services.EmailAPI\\appsettings.json",
+              "RelativeToolTip": "Mango.Services.EmailAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-10T14:32:44.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AzureServiceBusConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Services.EmailAPI\\Messaging\\AzureServiceBusConsumer.cs",
+              "RelativeDocumentMoniker": "Mango.Services.EmailAPI\\Messaging\\AzureServiceBusConsumer.cs",
+              "ToolTip": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Services.EmailAPI\\Messaging\\AzureServiceBusConsumer.cs",
+              "RelativeToolTip": "Mango.Services.EmailAPI\\Messaging\\AzureServiceBusConsumer.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwB4AAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T17:48:56.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAzureServiceBusConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Services.RewardAPI\\Messaging\\IAzureServiceBusConsumer.cs",
+              "RelativeDocumentMoniker": "Mango.Services.RewardAPI\\Messaging\\IAzureServiceBusConsumer.cs",
+              "ToolTip": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Services.RewardAPI\\Messaging\\IAzureServiceBusConsumer.cs",
+              "RelativeToolTip": "Mango.Services.RewardAPI\\Messaging\\IAzureServiceBusConsumer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T17:24:44.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "OrderAPIController.cs",
               "DocumentMoniker": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Services.OrderAPI\\Controllers\\OrderAPIController.cs",
               "RelativeDocumentMoniker": "Mango.Services.OrderAPI\\Controllers\\OrderAPIController.cs",
               "ToolTip": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Services.OrderAPI\\Controllers\\OrderAPIController.cs",
               "RelativeToolTip": "Mango.Services.OrderAPI\\Controllers\\OrderAPIController.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAAQwMoAAABOAAAA",
+              "ViewState": "AQIAALkAAAAAAAAAAAAswMoAAABMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-11T13:48:50.794Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Services.RewardAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Mango.Services.RewardAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Services.RewardAPI\\Program.cs",
+              "RelativeToolTip": "Mango.Services.RewardAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T16:03:24.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Services.OrderAPI\\Program.cs",
               "RelativeDocumentMoniker": "Mango.Services.OrderAPI\\Program.cs",
               "ToolTip": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Services.OrderAPI\\Program.cs",
               "RelativeToolTip": "Mango.Services.OrderAPI\\Program.cs",
-              "ViewState": "AQIAADwAAAAAAAAAAAAAAE0AAAAAAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAE0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-11T13:20:56.928Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
+              "Title": "RewardsDto.cs",
+              "DocumentMoniker": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Services.OrderAPI\\Models\\Dto\\RewardsDto.cs",
+              "RelativeDocumentMoniker": "Mango.Services.OrderAPI\\Models\\Dto\\RewardsDto.cs",
+              "ToolTip": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Services.OrderAPI\\Models\\Dto\\RewardsDto.cs",
+              "RelativeToolTip": "Mango.Services.OrderAPI\\Models\\Dto\\RewardsDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T16:26:49.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Services.OrderAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "Mango.Services.OrderAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Services.OrderAPI\\appsettings.json",
+              "RelativeToolTip": "Mango.Services.OrderAPI\\appsettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-11T13:21:18.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RewardsMessage.cs",
+              "DocumentMoniker": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Services.RewardAPI\\Message\\RewardsMessage.cs",
+              "RelativeDocumentMoniker": "Mango.Services.RewardAPI\\Message\\RewardsMessage.cs",
+              "ToolTip": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Services.RewardAPI\\Message\\RewardsMessage.cs",
+              "RelativeToolTip": "Mango.Services.RewardAPI\\Message\\RewardsMessage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T16:08:28.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250313161141_AddRewardTable.cs",
+              "DocumentMoniker": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Services.RewardAPI\\Migrations\\20250313161141_AddRewardTable.cs",
+              "RelativeDocumentMoniker": "Mango.Services.RewardAPI\\Migrations\\20250313161141_AddRewardTable.cs",
+              "ToolTip": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Services.RewardAPI\\Migrations\\20250313161141_AddRewardTable.cs",
+              "RelativeToolTip": "Mango.Services.RewardAPI\\Migrations\\20250313161141_AddRewardTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T16:11:41.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Rewards.cs",
+              "DocumentMoniker": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Services.RewardAPI\\Models\\Rewards.cs",
+              "RelativeDocumentMoniker": "Mango.Services.RewardAPI\\Models\\Rewards.cs",
+              "ToolTip": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Services.RewardAPI\\Models\\Rewards.cs",
+              "RelativeToolTip": "Mango.Services.RewardAPI\\Models\\Rewards.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T16:04:20.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IRewardService.cs",
+              "DocumentMoniker": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Services.RewardAPI\\Services\\IRewardService.cs",
+              "RelativeDocumentMoniker": "Mango.Services.RewardAPI\\Services\\IRewardService.cs",
+              "ToolTip": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Services.RewardAPI\\Services\\IRewardService.cs",
+              "RelativeToolTip": "Mango.Services.RewardAPI\\Services\\IRewardService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T16:07:35.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RewardService.cs",
+              "DocumentMoniker": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Services.RewardAPI\\Services\\RewardService.cs",
+              "RelativeDocumentMoniker": "Mango.Services.RewardAPI\\Services\\RewardService.cs",
+              "ToolTip": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Services.RewardAPI\\Services\\RewardService.cs",
+              "RelativeToolTip": "Mango.Services.RewardAPI\\Services\\RewardService.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwB4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T16:09:07.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Services.RewardAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Mango.Services.RewardAPI\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Services.RewardAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Mango.Services.RewardAPI\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T16:03:37.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Mango.Services.RewardAPI",
+              "DocumentMoniker": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Services.RewardAPI\\Mango.Services.RewardAPI.csproj",
+              "RelativeDocumentMoniker": "Mango.Services.RewardAPI\\Mango.Services.RewardAPI.csproj",
+              "ToolTip": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Services.RewardAPI\\Mango.Services.RewardAPI.csproj",
+              "RelativeToolTip": "Mango.Services.RewardAPI\\Mango.Services.RewardAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-13T16:02:34.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "CartController.cs",
               "DocumentMoniker": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Web\\Controllers\\CartController.cs",
               "RelativeDocumentMoniker": "Mango.Web\\Controllers\\CartController.cs",
@@ -363,7 +555,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 21,
               "Title": "SD.cs",
               "DocumentMoniker": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Services.OrderAPI\\Utility\\SD.cs",
               "RelativeDocumentMoniker": "Mango.Services.OrderAPI\\Utility\\SD.cs",
@@ -371,12 +563,23 @@
               "RelativeToolTip": "Mango.Services.OrderAPI\\Utility\\SD.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T13:45:49.852Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-11T13:45:49.852Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\CouponAPI\\Program.cs",
+              "RelativeDocumentMoniker": "CouponAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\CouponAPI\\Program.cs",
+              "RelativeToolTip": "CouponAPI\\Program.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAEQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T11:52:54.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "SD.cs",
               "DocumentMoniker": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Web\\Utility\\SD.cs",
               "RelativeDocumentMoniker": "Mango.Web\\Utility\\SD.cs",
@@ -384,12 +587,11 @@
               "RelativeToolTip": "Mango.Web\\Utility\\SD.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T14:02:23.635Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-11T14:02:23.635Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 19,
               "Title": "IOrderService.cs",
               "DocumentMoniker": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Web\\Service\\IService\\IOrderService.cs",
               "RelativeDocumentMoniker": "Mango.Web\\Service\\IService\\IOrderService.cs",
@@ -397,12 +599,11 @@
               "RelativeToolTip": "Mango.Web\\Service\\IService\\IOrderService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T14:03:40.346Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-11T14:03:40.346Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 18,
               "Title": "OrderService.cs",
               "DocumentMoniker": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Web\\Service\\OrderService.cs",
               "RelativeDocumentMoniker": "Mango.Web\\Service\\OrderService.cs",
@@ -410,12 +611,36 @@
               "RelativeToolTip": "Mango.Web\\Service\\OrderService.cs",
               "ViewState": "AQIAACgAAAAAAAAAAAAkwEgAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T14:04:25.916Z",
+              "WhenOpened": "2025-03-11T14:04:25.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Mango.Services.EmailAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Services.EmailAPI\\Mango.Services.EmailAPI.csproj",
+              "RelativeDocumentMoniker": "Mango.Services.EmailAPI\\Mango.Services.EmailAPI.csproj",
+              "ToolTip": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Services.EmailAPI\\Mango.Services.EmailAPI.csproj",
+              "RelativeToolTip": "Mango.Services.EmailAPI\\Mango.Services.EmailAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-10T14:28:39.72Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\CouponAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "CouponAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\CouponAPI\\appsettings.json",
+              "RelativeToolTip": "CouponAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-13T11:53:20.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
               "Title": "CouponAPIController.cs",
               "DocumentMoniker": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\CouponAPI\\Controllers\\CouponAPIController.cs",
               "RelativeDocumentMoniker": "CouponAPI\\Controllers\\CouponAPIController.cs",
@@ -423,12 +648,11 @@
               "RelativeToolTip": "CouponAPI\\Controllers\\CouponAPIController.cs",
               "ViewState": "AQIAAIMAAAAAAAAAAAAswJQAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T18:16:02.84Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-09T18:16:02.84Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 25,
               "Title": "StripeRequestDto.cs",
               "DocumentMoniker": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Services.OrderAPI\\Models\\Dto\\StripeRequestDto.cs",
               "RelativeDocumentMoniker": "Mango.Services.OrderAPI\\Models\\Dto\\StripeRequestDto.cs",
@@ -436,25 +660,11 @@
               "RelativeToolTip": "Mango.Services.OrderAPI\\Models\\Dto\\StripeRequestDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T22:12:16.193Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-12T22:12:16.193Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Services.OrderAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "Mango.Services.OrderAPI\\appsettings.json",
-              "ToolTip": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Services.OrderAPI\\appsettings.json",
-              "RelativeToolTip": "Mango.Services.OrderAPI\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-11T13:21:18.384Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 26,
               "Title": "Confirmation.cshtml",
               "DocumentMoniker": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Web\\Views\\Cart\\Confirmation.cshtml",
               "RelativeDocumentMoniker": "Mango.Web\\Views\\Cart\\Confirmation.cshtml",
@@ -462,12 +672,11 @@
               "RelativeToolTip": "Mango.Web\\Views\\Cart\\Confirmation.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-13T11:07:02.171Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-13T11:07:02.171Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 27,
               "Title": "ResponseDto.cs",
               "DocumentMoniker": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Services.OrderAPI\\Models\\Dto\\ResponseDto.cs",
               "RelativeDocumentMoniker": "Mango.Services.OrderAPI\\Models\\Dto\\ResponseDto.cs",
@@ -475,12 +684,11 @@
               "RelativeToolTip": "Mango.Services.OrderAPI\\Models\\Dto\\ResponseDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T13:08:33.9Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-11T13:08:33.9Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 34,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Web\\Program.cs",
               "RelativeDocumentMoniker": "Mango.Web\\Program.cs",
@@ -488,12 +696,11 @@
               "RelativeToolTip": "Mango.Web\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAIBJwBsAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T14:02:49.771Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-11T14:02:49.771Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 31,
               "Title": "OrderDetailsDto.cs",
               "DocumentMoniker": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Web\\Models\\OrderDetailsDto.cs",
               "RelativeDocumentMoniker": "Mango.Web\\Models\\OrderDetailsDto.cs",
@@ -501,12 +708,11 @@
               "RelativeToolTip": "Mango.Web\\Models\\OrderDetailsDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T14:08:42.855Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-11T14:08:42.855Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 32,
               "Title": "LoginRequestDto.cs",
               "DocumentMoniker": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Web\\Models\\LoginRequestDto.cs",
               "RelativeDocumentMoniker": "Mango.Web\\Models\\LoginRequestDto.cs",
@@ -514,12 +720,11 @@
               "RelativeToolTip": "Mango.Web\\Models\\LoginRequestDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T14:09:09.552Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-11T14:09:09.552Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 30,
               "Title": "OrderHeaderDto.cs",
               "DocumentMoniker": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Web\\Models\\OrderHeaderDto.cs",
               "RelativeDocumentMoniker": "Mango.Web\\Models\\OrderHeaderDto.cs",
@@ -527,12 +732,11 @@
               "RelativeToolTip": "Mango.Web\\Models\\OrderHeaderDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T14:09:17.838Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-11T14:09:17.838Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 28,
               "Title": "StripeRequestDto.cs",
               "DocumentMoniker": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Web\\Models\\StripeRequestDto.cs",
               "RelativeDocumentMoniker": "Mango.Web\\Models\\StripeRequestDto.cs",
@@ -540,12 +744,11 @@
               "RelativeToolTip": "Mango.Web\\Models\\StripeRequestDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T22:11:00.896Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-12T22:11:00.896Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 29,
               "Title": "Checkout.cshtml",
               "DocumentMoniker": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Web\\Views\\Cart\\Checkout.cshtml",
               "RelativeDocumentMoniker": "Mango.Web\\Views\\Cart\\Checkout.cshtml",
@@ -553,12 +756,11 @@
               "RelativeToolTip": "Mango.Web\\Views\\Cart\\Checkout.cshtml",
               "ViewState": "AQIAAA8AAAAAAAAAAIBJwAAAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-11T12:38:12.436Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-11T12:38:12.436Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 36,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Services.OrderAPI\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Mango.Services.OrderAPI\\Properties\\launchSettings.json",
@@ -566,12 +768,11 @@
               "RelativeToolTip": "Mango.Services.OrderAPI\\Properties\\launchSettings.json",
               "ViewState": "AQIAAAUAAAAAAAAAAABRwBoAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-11T14:01:23.159Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-11T14:01:23.159Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 33,
               "Title": "OrderDetailsDto.cs",
               "DocumentMoniker": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Services.OrderAPI\\Models\\Dto\\OrderDetailsDto.cs",
               "RelativeDocumentMoniker": "Mango.Services.OrderAPI\\Models\\Dto\\OrderDetailsDto.cs",
@@ -579,12 +780,11 @@
               "RelativeToolTip": "Mango.Services.OrderAPI\\Models\\Dto\\OrderDetailsDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T13:08:52.203Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-11T13:08:52.203Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 79,
               "Title": "20250311133655_AddOrderTables.cs",
               "DocumentMoniker": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Services.OrderAPI\\Migrations\\20250311133655_AddOrderTables.cs",
               "RelativeDocumentMoniker": "Mango.Services.OrderAPI\\Migrations\\20250311133655_AddOrderTables.cs",
@@ -592,12 +792,11 @@
               "RelativeToolTip": "Mango.Services.OrderAPI\\Migrations\\20250311133655_AddOrderTables.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T13:36:55.635Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-11T13:36:55.635Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 42,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Services.OrderAPI\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Mango.Services.OrderAPI\\Data\\AppDbContext.cs",
@@ -605,12 +804,11 @@
               "RelativeToolTip": "Mango.Services.OrderAPI\\Data\\AppDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T13:26:30.09Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-11T13:26:30.09Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 43,
               "Title": "WebApplicationBuilderExtensions.cs",
               "DocumentMoniker": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Services.OrderAPI\\Extensions\\WebApplicationBuilderExtensions.cs",
               "RelativeDocumentMoniker": "Mango.Services.OrderAPI\\Extensions\\WebApplicationBuilderExtensions.cs",
@@ -618,12 +816,11 @@
               "RelativeToolTip": "Mango.Services.OrderAPI\\Extensions\\WebApplicationBuilderExtensions.cs",
               "ViewState": "AQIAABwAAAAAAAAAAAAQwAQAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T13:25:53.968Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-11T13:25:53.968Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 35,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Web\\appsettings.json",
               "RelativeDocumentMoniker": "Mango.Web\\appsettings.json",
@@ -631,12 +828,11 @@
               "RelativeToolTip": "Mango.Web\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-10T13:26:25.209Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T13:26:25.209Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 41,
               "Title": "BackendApiAuthenticationHttpClientHandler.cs",
               "DocumentMoniker": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Services.OrderAPI\\Utility\\BackendApiAuthenticationHttpClientHandler.cs",
               "RelativeDocumentMoniker": "Mango.Services.OrderAPI\\Utility\\BackendApiAuthenticationHttpClientHandler.cs",
@@ -644,12 +840,11 @@
               "RelativeToolTip": "Mango.Services.OrderAPI\\Utility\\BackendApiAuthenticationHttpClientHandler.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T13:24:27.962Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-11T13:24:27.962Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 37,
               "Title": "MappingConfig.cs",
               "DocumentMoniker": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Services.OrderAPI\\MappingConfig.cs",
               "RelativeDocumentMoniker": "Mango.Services.OrderAPI\\MappingConfig.cs",
@@ -657,12 +852,11 @@
               "RelativeToolTip": "Mango.Services.OrderAPI\\MappingConfig.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAA/wBoAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T13:22:37.522Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-11T13:22:37.522Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 38,
               "Title": "OrderHeaderDto.cs",
               "DocumentMoniker": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Services.OrderAPI\\Models\\Dto\\OrderHeaderDto.cs",
               "RelativeDocumentMoniker": "Mango.Services.OrderAPI\\Models\\Dto\\OrderHeaderDto.cs",
@@ -670,12 +864,11 @@
               "RelativeToolTip": "Mango.Services.OrderAPI\\Models\\Dto\\OrderHeaderDto.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAA3wBQAAABGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T13:09:20.35Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-11T13:09:20.35Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 40,
               "Title": "IProductService.cs",
               "DocumentMoniker": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Services.OrderAPI\\Service\\IService\\IProductService.cs",
               "RelativeDocumentMoniker": "Mango.Services.OrderAPI\\Service\\IService\\IProductService.cs",
@@ -683,12 +876,11 @@
               "RelativeToolTip": "Mango.Services.OrderAPI\\Service\\IService\\IProductService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T13:28:17.034Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-11T13:28:17.034Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 39,
               "Title": "ProductService.cs",
               "DocumentMoniker": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Services.OrderAPI\\Service\\ProductService.cs",
               "RelativeDocumentMoniker": "Mango.Services.OrderAPI\\Service\\ProductService.cs",
@@ -696,12 +888,11 @@
               "RelativeToolTip": "Mango.Services.OrderAPI\\Service\\ProductService.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAIBJwBMAAABNAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T13:29:02.811Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-11T13:29:02.811Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 48,
               "Title": "ProductDto.cs",
               "DocumentMoniker": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Services.OrderAPI\\Models\\Dto\\ProductDto.cs",
               "RelativeDocumentMoniker": "Mango.Services.OrderAPI\\Models\\Dto\\ProductDto.cs",
@@ -709,12 +900,11 @@
               "RelativeToolTip": "Mango.Services.OrderAPI\\Models\\Dto\\ProductDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T13:08:28.923Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-11T13:08:28.923Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 47,
               "Title": "OrderHeader.cs",
               "DocumentMoniker": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Services.OrderAPI\\Models\\OrderHeader.cs",
               "RelativeDocumentMoniker": "Mango.Services.OrderAPI\\Models\\OrderHeader.cs",
@@ -722,12 +912,11 @@
               "RelativeToolTip": "Mango.Services.OrderAPI\\Models\\OrderHeader.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAxwBcAAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T13:06:53.813Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-11T13:06:53.813Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 44,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Services.ShoppingCartAPI\\appsettings.json",
               "RelativeDocumentMoniker": "Mango.Services.ShoppingCartAPI\\appsettings.json",
@@ -735,12 +924,11 @@
               "RelativeToolTip": "Mango.Services.ShoppingCartAPI\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-10T12:54:07.046Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T12:54:07.046Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 49,
               "Title": "CartHeaderDto.cs",
               "DocumentMoniker": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Services.OrderAPI\\Models\\Dto\\CartHeaderDto.cs",
               "RelativeDocumentMoniker": "Mango.Services.OrderAPI\\Models\\Dto\\CartHeaderDto.cs",
@@ -748,12 +936,11 @@
               "RelativeToolTip": "Mango.Services.OrderAPI\\Models\\Dto\\CartHeaderDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T13:08:19.487Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-11T13:08:19.487Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 46,
               "Title": "OrderDetails.cs",
               "DocumentMoniker": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Services.OrderAPI\\Models\\OrderDetails.cs",
               "RelativeDocumentMoniker": "Mango.Services.OrderAPI\\Models\\OrderDetails.cs",
@@ -761,12 +948,11 @@
               "RelativeToolTip": "Mango.Services.OrderAPI\\Models\\OrderDetails.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAIBJwA8AAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T13:05:11.525Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-11T13:05:11.525Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 45,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Services.ShoppingCartAPI\\Program.cs",
               "RelativeDocumentMoniker": "Mango.Services.ShoppingCartAPI\\Program.cs",
@@ -774,12 +960,11 @@
               "RelativeToolTip": "Mango.Services.ShoppingCartAPI\\Program.cs",
               "ViewState": "AQIAAE4AAAAAAAAAAADwv2gAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T18:21:05.763Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-09T18:21:05.763Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 50,
               "Title": "CouponDto.cs",
               "DocumentMoniker": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Services.OrderAPI\\Models\\Dto\\CouponDto.cs",
               "RelativeDocumentMoniker": "Mango.Services.OrderAPI\\Models\\Dto\\CouponDto.cs",
@@ -787,12 +972,11 @@
               "RelativeToolTip": "Mango.Services.OrderAPI\\Models\\Dto\\CouponDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T13:08:24.668Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-11T13:08:24.668Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 51,
               "Title": "CartDto.cs",
               "DocumentMoniker": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Services.OrderAPI\\Models\\Dto\\CartDto.cs",
               "RelativeDocumentMoniker": "Mango.Services.OrderAPI\\Models\\Dto\\CartDto.cs",
@@ -800,12 +984,11 @@
               "RelativeToolTip": "Mango.Services.OrderAPI\\Models\\Dto\\CartDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T13:08:14.958Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-11T13:08:14.958Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 52,
               "Title": "CartDetailsDto.cs",
               "DocumentMoniker": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Services.OrderAPI\\Models\\Dto\\CartDetailsDto.cs",
               "RelativeDocumentMoniker": "Mango.Services.OrderAPI\\Models\\Dto\\CartDetailsDto.cs",
@@ -813,12 +996,11 @@
               "RelativeToolTip": "Mango.Services.OrderAPI\\Models\\Dto\\CartDetailsDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T13:08:06.04Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-11T13:08:06.04Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 53,
               "Title": "Mango.Services.OrderAPI.csproj",
               "DocumentMoniker": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Services.OrderAPI\\Mango.Services.OrderAPI.csproj",
               "RelativeDocumentMoniker": "Mango.Services.OrderAPI\\Mango.Services.OrderAPI.csproj",
@@ -831,7 +1013,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 55,
               "Title": "CartHeaderDto.cs",
               "DocumentMoniker": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Web\\Models\\CartHeaderDto.cs",
               "RelativeDocumentMoniker": "Mango.Web\\Models\\CartHeaderDto.cs",
@@ -839,51 +1021,11 @@
               "RelativeToolTip": "Mango.Web\\Models\\CartHeaderDto.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAAwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T12:44:35.889Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-11T12:44:35.889Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "IEmailService.cs",
-              "DocumentMoniker": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Services.EmailAPI\\Services\\IEmailService.cs",
-              "RelativeDocumentMoniker": "Mango.Services.EmailAPI\\Services\\IEmailService.cs",
-              "ToolTip": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Services.EmailAPI\\Services\\IEmailService.cs",
-              "RelativeToolTip": "Mango.Services.EmailAPI\\Services\\IEmailService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T18:30:44.031Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "AzureServiceBusConsumer.cs",
-              "DocumentMoniker": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Services.EmailAPI\\Messaging\\AzureServiceBusConsumer.cs",
-              "RelativeDocumentMoniker": "Mango.Services.EmailAPI\\Messaging\\AzureServiceBusConsumer.cs",
-              "ToolTip": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Services.EmailAPI\\Messaging\\AzureServiceBusConsumer.cs",
-              "RelativeToolTip": "Mango.Services.EmailAPI\\Messaging\\AzureServiceBusConsumer.cs",
-              "ViewState": "AQIAAEsAAAAAAAAAAAAIwDYAAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T17:48:56.277Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Services.EmailAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "Mango.Services.EmailAPI\\appsettings.json",
-              "ToolTip": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Services.EmailAPI\\appsettings.json",
-              "RelativeToolTip": "Mango.Services.EmailAPI\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-10T14:32:44.517Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 59,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Services.AuthAPI\\Program.cs",
               "RelativeDocumentMoniker": "Mango.Services.AuthAPI\\Program.cs",
@@ -891,12 +1033,11 @@
               "RelativeToolTip": "Mango.Services.AuthAPI\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T18:51:45.666Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T18:51:45.666Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 54,
               "Title": "Mango.Services.ShoppingCartAPI.csproj",
               "DocumentMoniker": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Services.ShoppingCartAPI\\Mango.Services.ShoppingCartAPI.csproj",
               "RelativeDocumentMoniker": "Mango.Services.ShoppingCartAPI\\Mango.Services.ShoppingCartAPI.csproj",
@@ -909,20 +1050,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "EmailService.cs",
-              "DocumentMoniker": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Services.EmailAPI\\Services\\EmailService.cs",
-              "RelativeDocumentMoniker": "Mango.Services.EmailAPI\\Services\\EmailService.cs",
-              "ToolTip": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Services.EmailAPI\\Services\\EmailService.cs",
-              "RelativeToolTip": "Mango.Services.EmailAPI\\Services\\EmailService.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAYwCYAAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T18:31:01.024Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 56,
               "Title": "CartIndex.cshtml",
               "DocumentMoniker": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Web\\Views\\Cart\\CartIndex.cshtml",
               "RelativeDocumentMoniker": "Mango.Web\\Views\\Cart\\CartIndex.cshtml",
@@ -930,12 +1058,11 @@
               "RelativeToolTip": "Mango.Web\\Views\\Cart\\CartIndex.cshtml",
               "ViewState": "AQIAAEsAAAAAAAAAAIBJwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-10T12:58:58.219Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T12:58:58.219Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 57,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Services.AuthAPI\\appsettings.json",
               "RelativeDocumentMoniker": "Mango.Services.AuthAPI\\appsettings.json",
@@ -943,12 +1070,11 @@
               "RelativeToolTip": "Mango.Services.AuthAPI\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-10T18:53:12.769Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T18:53:12.769Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 58,
               "Title": "AuthAPIController.cs",
               "DocumentMoniker": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Services.AuthAPI\\Controllers\\AuthAPIController.cs",
               "RelativeDocumentMoniker": "Mango.Services.AuthAPI\\Controllers\\AuthAPIController.cs",
@@ -956,12 +1082,11 @@
               "RelativeToolTip": "Mango.Services.AuthAPI\\Controllers\\AuthAPIController.cs",
               "ViewState": "AQIAABcAAAAAAAAAAAAQwCcAAAB/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T18:55:41.082Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T18:55:41.082Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 61,
               "Title": "ApplicationBuilderExtensions.cs",
               "DocumentMoniker": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Services.EmailAPI\\Extension\\ApplicationBuilderExtensions.cs",
               "RelativeDocumentMoniker": "Mango.Services.EmailAPI\\Extension\\ApplicationBuilderExtensions.cs",
@@ -969,12 +1094,11 @@
               "RelativeToolTip": "Mango.Services.EmailAPI\\Extension\\ApplicationBuilderExtensions.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAIBJwAkAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T18:20:42.98Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T18:20:42.98Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 62,
               "Title": "IAzureServiceBusConsumer.cs",
               "DocumentMoniker": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Services.EmailAPI\\Messaging\\IAzureServiceBusConsumer.cs",
               "RelativeDocumentMoniker": "Mango.Services.EmailAPI\\Messaging\\IAzureServiceBusConsumer.cs",
@@ -982,12 +1106,11 @@
               "RelativeToolTip": "Mango.Services.EmailAPI\\Messaging\\IAzureServiceBusConsumer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T17:49:28.316Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T17:49:28.316Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 60,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Services.EmailAPI\\Program.cs",
               "RelativeDocumentMoniker": "Mango.Services.EmailAPI\\Program.cs",
@@ -995,12 +1118,11 @@
               "RelativeToolTip": "Mango.Services.EmailAPI\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T14:27:57.556Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T14:27:57.556Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 63,
               "Title": "MessageBus.cs",
               "DocumentMoniker": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.MessageBus\\MessageBus.cs",
               "RelativeDocumentMoniker": "Mango.MessageBus\\MessageBus.cs",
@@ -1008,12 +1130,11 @@
               "RelativeToolTip": "Mango.MessageBus\\MessageBus.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAIBJwA0AAADJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T12:38:23.729Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T12:38:23.729Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 64,
               "Title": "CartDetailsDto.cs",
               "DocumentMoniker": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Services.EmailAPI\\Models\\Dto\\CartDetailsDto.cs",
               "RelativeDocumentMoniker": "Mango.Services.EmailAPI\\Models\\Dto\\CartDetailsDto.cs",
@@ -1021,12 +1142,11 @@
               "RelativeToolTip": "Mango.Services.EmailAPI\\Models\\Dto\\CartDetailsDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T14:41:21.715Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T14:41:21.715Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 65,
               "Title": "ProductDto.cs",
               "DocumentMoniker": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Services.EmailAPI\\Models\\Dto\\ProductDto.cs",
               "RelativeDocumentMoniker": "Mango.Services.EmailAPI\\Models\\Dto\\ProductDto.cs",
@@ -1034,12 +1154,11 @@
               "RelativeToolTip": "Mango.Services.EmailAPI\\Models\\Dto\\ProductDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T14:42:39.618Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T14:42:39.618Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 66,
               "Title": "CartDto.cs",
               "DocumentMoniker": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Services.EmailAPI\\Models\\Dto\\CartDto.cs",
               "RelativeDocumentMoniker": "Mango.Services.EmailAPI\\Models\\Dto\\CartDto.cs",
@@ -1047,12 +1166,11 @@
               "RelativeToolTip": "Mango.Services.EmailAPI\\Models\\Dto\\CartDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T14:41:46.798Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T14:41:46.798Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 78,
               "Title": "20250310143902_AddEmailLogTable.cs",
               "DocumentMoniker": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Services.EmailAPI\\Migrations\\20250310143902_AddEmailLogTable.cs",
               "RelativeDocumentMoniker": "Mango.Services.EmailAPI\\Migrations\\20250310143902_AddEmailLogTable.cs",
@@ -1060,12 +1178,11 @@
               "RelativeToolTip": "Mango.Services.EmailAPI\\Migrations\\20250310143902_AddEmailLogTable.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T14:39:02.381Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T14:39:02.381Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 67,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Services.ProductAPI\\Program.cs",
               "RelativeDocumentMoniker": "Mango.Services.ProductAPI\\Program.cs",
@@ -1073,12 +1190,11 @@
               "RelativeToolTip": "Mango.Services.ProductAPI\\Program.cs",
               "ViewState": "AQIAAEAAAAAAAAAAAAAuwFoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T14:34:42.011Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T14:34:42.011Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 68,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Services.ProductAPI\\appsettings.json",
               "RelativeDocumentMoniker": "Mango.Services.ProductAPI\\appsettings.json",
@@ -1086,12 +1202,11 @@
               "RelativeToolTip": "Mango.Services.ProductAPI\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-10T14:32:23.429Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T14:32:23.429Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 70,
               "Title": "EmailLogger.cs",
               "DocumentMoniker": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Services.EmailAPI\\Models\\EmailLogger.cs",
               "RelativeDocumentMoniker": "Mango.Services.EmailAPI\\Models\\EmailLogger.cs",
@@ -1099,12 +1214,11 @@
               "RelativeToolTip": "Mango.Services.EmailAPI\\Models\\EmailLogger.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T14:31:30.398Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T14:31:30.398Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 69,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Services.EmailAPI\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Mango.Services.EmailAPI\\Data\\AppDbContext.cs",
@@ -1112,25 +1226,11 @@
               "RelativeToolTip": "Mango.Services.EmailAPI\\Data\\AppDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T14:29:20.012Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T14:29:20.012Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
-              "Title": "Mango.Services.EmailAPI.csproj",
-              "DocumentMoniker": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Services.EmailAPI\\Mango.Services.EmailAPI.csproj",
-              "RelativeDocumentMoniker": "Mango.Services.EmailAPI\\Mango.Services.EmailAPI.csproj",
-              "ToolTip": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Services.EmailAPI\\Mango.Services.EmailAPI.csproj",
-              "RelativeToolTip": "Mango.Services.EmailAPI\\Mango.Services.EmailAPI.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-10T14:28:39.72Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 71,
               "Title": "Mango.Services.ProductAPI.csproj",
               "DocumentMoniker": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj",
               "RelativeDocumentMoniker": "Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj",
@@ -1143,7 +1243,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 73,
               "Title": "Mango.MessageBus.csproj",
               "DocumentMoniker": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.MessageBus\\Mango.MessageBus.csproj",
               "RelativeDocumentMoniker": "Mango.MessageBus\\Mango.MessageBus.csproj",
@@ -1156,7 +1256,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 72,
               "Title": "IMessasgeBus.cs",
               "DocumentMoniker": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.MessageBus\\IMessasgeBus.cs",
               "RelativeDocumentMoniker": "Mango.MessageBus\\IMessasgeBus.cs",
@@ -1164,12 +1264,11 @@
               "RelativeToolTip": "Mango.MessageBus\\IMessasgeBus.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T12:38:06.041Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T12:38:06.041Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 76,
               "Title": "ICartService.cs",
               "DocumentMoniker": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Web\\Service\\IService\\ICartService.cs",
               "RelativeDocumentMoniker": "Mango.Web\\Service\\IService\\ICartService.cs",
@@ -1177,12 +1276,11 @@
               "RelativeToolTip": "Mango.Web\\Service\\IService\\ICartService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T12:57:19.71Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T12:57:19.71Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 75,
               "Title": "CartService.cs",
               "DocumentMoniker": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Web\\Service\\CartService.cs",
               "RelativeDocumentMoniker": "Mango.Web\\Service\\CartService.cs",
@@ -1190,12 +1288,11 @@
               "RelativeToolTip": "Mango.Web\\Service\\CartService.cs",
               "ViewState": "AQIAABIAAAAAAAAAAAAYwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T12:57:42.938Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T12:57:42.938Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 74,
               "Title": "CartHeader.cs",
               "DocumentMoniker": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Services.ShoppingCartAPI\\Models\\CartHeader.cs",
               "RelativeDocumentMoniker": "Mango.Services.ShoppingCartAPI\\Models\\CartHeader.cs",
@@ -1203,12 +1300,11 @@
               "RelativeToolTip": "Mango.Services.ShoppingCartAPI\\Models\\CartHeader.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T13:06:49.127Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T13:06:49.127Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 77,
               "Title": "BackendApiAuthenticationHttpClientHandler.cs",
               "DocumentMoniker": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Services.ShoppingCartAPI\\Utility\\BackendApiAuthenticationHttpClientHandler.cs",
               "RelativeDocumentMoniker": "Mango.Services.ShoppingCartAPI\\Utility\\BackendApiAuthenticationHttpClientHandler.cs",
@@ -1216,8 +1312,7 @@
               "RelativeToolTip": "Mango.Services.ShoppingCartAPI\\Utility\\BackendApiAuthenticationHttpClientHandler.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T18:18:28.339Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-09T18:18:28.339Z"
             }
           ]
         }
