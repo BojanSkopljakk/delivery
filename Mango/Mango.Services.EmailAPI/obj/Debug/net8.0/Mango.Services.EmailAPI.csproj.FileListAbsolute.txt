@@ -138,3 +138,8 @@ C:\Users\bojan\source\repos\delivery\Mango\Mango.Services.EmailAPI\obj\Debug\net
 C:\Users\bojan\source\repos\delivery\Mango\Mango.Services.EmailAPI\obj\Debug\net8.0\Mango.Services.EmailAPI.pdb
 C:\Users\bojan\source\repos\delivery\Mango\Mango.Services.EmailAPI\obj\Debug\net8.0\Mango.Services.EmailAPI.genruntimeconfig.cache
 C:\Users\bojan\source\repos\delivery\Mango\Mango.Services.EmailAPI\obj\Debug\net8.0\ref\Mango.Services.EmailAPI.dll
+C:\Users\bojan\source\repos\delivery\Mango\Mango.Services.EmailAPI\bin\Debug\net8.0\Azure.Core.Amqp.dll
+C:\Users\bojan\source\repos\delivery\Mango\Mango.Services.EmailAPI\bin\Debug\net8.0\Azure.Messaging.ServiceBus.dll
+C:\Users\bojan\source\repos\delivery\Mango\Mango.Services.EmailAPI\bin\Debug\net8.0\Microsoft.Azure.Amqp.dll
+C:\Users\bojan\source\repos\delivery\Mango\Mango.Services.EmailAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\bojan\source\repos\delivery\Mango\Mango.Services.EmailAPI\bin\Debug\net8.0\System.ClientModel.dll

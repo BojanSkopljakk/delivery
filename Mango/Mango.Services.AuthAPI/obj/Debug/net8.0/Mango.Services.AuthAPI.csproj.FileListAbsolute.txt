@@ -144,3 +144,10 @@ C:\Users\bojan\source\repos\delivery\Mango\Mango.Services.AuthAPI\obj\Debug\net8
 C:\Users\bojan\source\repos\delivery\Mango\Mango.Services.AuthAPI\obj\Debug\net8.0\Mango.Services.AuthAPI.pdb
 C:\Users\bojan\source\repos\delivery\Mango\Mango.Services.AuthAPI\obj\Debug\net8.0\Mango.Services.AuthAPI.genruntimeconfig.cache
 C:\Users\bojan\source\repos\delivery\Mango\Mango.Services.AuthAPI\obj\Debug\net8.0\ref\Mango.Services.AuthAPI.dll
+C:\Users\bojan\source\repos\delivery\Mango\Mango.Services.AuthAPI\bin\Debug\net8.0\Azure.Core.Amqp.dll
+C:\Users\bojan\source\repos\delivery\Mango\Mango.Services.AuthAPI\bin\Debug\net8.0\Azure.Messaging.ServiceBus.dll
+C:\Users\bojan\source\repos\delivery\Mango\Mango.Services.AuthAPI\bin\Debug\net8.0\Microsoft.Azure.Amqp.dll
+C:\Users\bojan\source\repos\delivery\Mango\Mango.Services.AuthAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\bojan\source\repos\delivery\Mango\Mango.Services.AuthAPI\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\bojan\source\repos\delivery\Mango\Mango.Services.AuthAPI\bin\Debug\net8.0\Mango.MessageBus.dll
+C:\Users\bojan\source\repos\delivery\Mango\Mango.Services.AuthAPI\bin\Debug\net8.0\Mango.MessageBus.pdb
