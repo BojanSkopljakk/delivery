@@ -1,4 +1,5 @@
-﻿using System.Security.AccessControl;
+﻿
+using System.Security.AccessControl;
 using static Mango.Web.Utility.SD;
 
 namespace Mango.Web.Models
@@ -11,5 +12,7 @@ namespace Mango.Web.Models
         public object Data { get; set; }
 
         public string AccessToken { get; set; }
+
+        public ContentType ContentType { get; set; } = ContentType.Json;
     }
 }
