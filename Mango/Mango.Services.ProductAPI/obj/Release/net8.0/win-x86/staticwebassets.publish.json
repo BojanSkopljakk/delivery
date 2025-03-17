@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "PnUmwEV+xtrKt7uk+yyr958gDywb0MGR1AaH3lNAwFo=",
+  "Source": "Mango.Services.ProductAPI",
+  "BasePath": "_content/Mango.Services.ProductAPI",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Mango.Services.ProductAPI\\wwwroot",
+      "Source": "Mango.Services.ProductAPI",
+      "ContentRoot": "C:\\Users\\bojan\\source\\repos\\delivery\\Mango\\Mango.Services.ProductAPI\\wwwroot\\",
+      "BasePath": "_content/Mango.Services.ProductAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

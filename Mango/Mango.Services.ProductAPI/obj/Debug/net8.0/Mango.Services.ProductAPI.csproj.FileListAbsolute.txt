@@ -139,3 +139,4 @@ C:\Users\bojan\source\repos\delivery\Mango\Mango.Services.ProductAPI\obj\Debug\n
 C:\Users\bojan\source\repos\delivery\Mango\Mango.Services.ProductAPI\obj\Debug\net8.0\Mango.Services.ProductAPI.genruntimeconfig.cache
 C:\Users\bojan\source\repos\delivery\Mango\Mango.Services.ProductAPI\obj\Debug\net8.0\ref\Mango.Services.ProductAPI.dll
 C:\Users\bojan\source\repos\delivery\Mango\Mango.Services.ProductAPI\bin\Debug\net8.0\Mango.Services.ProductAPI.staticwebassets.runtime.json
+C:\Users\bojan\source\repos\delivery\Mango\Mango.Services.ProductAPI\bin\Debug\net8.0\appsettings.Production.json
